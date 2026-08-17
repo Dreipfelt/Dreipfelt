@@ -2,7 +2,7 @@
 
 ### Data Scientist & Data Engineer
 
-I build data-driven solutions from **data analysis and machine learning to data pipelines, MLOps and AI-powered applications**.
+I build end-to-end data solutions, from **data pipelines and machine learning to MLOps and AI applications**.
 
 Currently looking for opportunities as a **Data Scientist** or **Data Engineer**.
 
@@ -10,7 +10,7 @@ Currently looking for opportunities as a **Data Scientist** or **Data Engineer**
 
 ## Featured Projects
 
-### 🛡️ [OASIS Security](https://github.com/Data-Science-Designer-and-Developer/oasis-security)
+### 🛡️ OASIS Security
 
 **Data Science — Crime Trend Analysis & Forecasting in France**
 
@@ -22,7 +22,7 @@ End-to-end Data Science project covering data preparation, feature engineering, 
 
 ---
 
-### 📰 [AI NewsOps Platform](https://github.com/Artificial-Intelligence-Architect/ai-newsops-platform)
+### 📰 AI NewsOps Platform
 
 **Data Engineering & MLOps — Automated News Classification**
 
@@ -34,7 +34,19 @@ End-to-end MLOps platform covering data versioning, model training, API serving,
 
 ---
 
-### 🔎 [GetANewJob — France Travail RAG](https://github.com/Dreipfelt/getanewjob-france-travail-rag)
+### 🧾 Automatic Fraud Detection
+
+**Data Engineering & Machine Learning — Real-Time Fraud Detection**
+
+Real-time fraud detection pipeline combining ETL workflows, machine learning and live transaction scoring from streaming data.
+
+**Python · Airflow · Machine Learning · ETL · Streaming · Docker**
+
+[View project →](https://github.com/Artificial-Intelligence-Architect/Automatic-Fraud-Detection)
+
+---
+
+### 🔎 GetANewJob — France Travail RAG
 
 **AI / GenAI — Multilingual RAG for Job Matching**
 
@@ -76,9 +88,8 @@ AI engineering, MLOps and data architecture projects developed as part of the **
 
 ## 🎓 Certifications
 
-**Artificial Intelligence Architect**
-
-**Data Science Designer & Developer — RNCP35288**
+- **Data Science Designer & Developer — RNCP35288**
+- **Artificial Intelligence Architect — Result pending**
 
 ---
 
