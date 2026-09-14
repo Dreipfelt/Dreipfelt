@@ -89,7 +89,7 @@ AI engineering, MLOps and data architecture projects developed as part of the **
 ## 🎓 Certifications
 
 - **Data Science Designer & Developer — RNCP35288**
-- **Artificial Intelligence Architect — Result pending**
+- **Artificial Intelligence Architect — RNCP38777**
 
 ---
 
