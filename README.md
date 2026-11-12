@@ -95,4 +95,4 @@ AI engineering, MLOps and data architecture projects developed as part of the **
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/frederic-tellier-8a9170283/)
+[LinkedIn](https://www.linkedin.com/in/frederic-tellier/)
