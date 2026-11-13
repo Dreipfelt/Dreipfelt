@@ -10,17 +10,6 @@ Currently looking for opportunities as a **Data Scientist** or **Data Engineer**
 
 ## Featured Projects
 
-### 🛡️ OASIS Security
-
-**Data Science — Crime Trend Analysis & Forecasting in France**
-
-End-to-end Data Science project covering data preparation, feature engineering, model benchmarking, time-series validation, MLflow experiment tracking and model deployment.
-
-**Python · Pandas · Scikit-learn · LightGBM · MLflow · FastAPI · Streamlit · Docker**
-
-[View project →](https://github.com/Data-Science-Designer-and-Developer/oasis-security)
-
----
 
 ### 📰 AI NewsOps Platform
 
@@ -34,6 +23,17 @@ End-to-end MLOps platform covering data versioning, model training, API serving,
 
 ---
 
+### 🔎 GetANewJob — France Travail RAG
+
+**AI / GenAI — Multilingual RAG for Job Matching**
+
+RAG system matching candidate profiles with France Travail job offers using multilingual embeddings, vector search and LLM-based scoring.
+
+**Python · PostgreSQL · pgvector · Sentence Transformers · Mistral · Airflow · FastAPI · Streamlit · Docker**
+
+[View project →](https://github.com/Dreipfelt/getanewjob-france-travail-rag)
+---
+
 ### 🧾 Automatic Fraud Detection
 
 **Data Engineering & Machine Learning — Real-Time Fraud Detection**
@@ -45,16 +45,15 @@ Real-time fraud detection pipeline combining ETL workflows, machine learning and
 [View project →](https://github.com/Artificial-Intelligence-Architect/Automatic-Fraud-Detection)
 
 ---
+### 🛡️ OASIS Security
 
-### 🔎 GetANewJob — France Travail RAG
+**Data Science — Crime Trend Analysis & Forecasting in France**
 
-**AI / GenAI — Multilingual RAG for Job Matching**
+End-to-end Data Science project covering data preparation, feature engineering, model benchmarking, time-series validation, MLflow experiment tracking and model deployment.
 
-RAG system matching candidate profiles with France Travail job offers using multilingual embeddings, vector search and LLM-based scoring.
+**Python · Pandas · Scikit-learn · LightGBM · MLflow · FastAPI · Streamlit · Docker**
 
-**Python · PostgreSQL · pgvector · Sentence Transformers · Mistral · Airflow · FastAPI · Streamlit · Docker**
-
-[View project →](https://github.com/Dreipfelt/getanewjob-france-travail-rag)
+[View project →](https://github.com/Data-Science-Designer-and-Developer/oasis-security)
 
 ---
 
